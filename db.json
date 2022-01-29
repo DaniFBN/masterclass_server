@@ -1,1 +1,48 @@
-{}
+{
+  "dev": {
+    "first_name": "Daniel",
+    "last_name": "Fernandes",
+    "image_url": "https://avatars.githubusercontent.com/u/54218517?v=4",
+    "description": "Desenvolvedor Flutter Jr na FTeam. Já fui FullStack por 2 anos utilizando Django e Vue, atuando desde a modelagem do DB, até o desenvolvimento das telas. Alguns testes em computer vision, atualmente estudando modelos de documentação e golden test",
+    "stacks": [
+      { "name": "Flutter", "proficiency": 0.73 },
+      { "name": "Django", "proficiency": 0.85 },
+      { "name": "Python", "proficiency": 0.8 },
+      { "name": "Vue", "proficiency": 0.7 },
+      { "name": "TypeScript", "proficiency": 0.67 },
+      { "name": "SQL", "proficiency": 0.73 },
+      { "name": "NoSQL", "proficiency": 0.65 }
+    ],
+    "networks: [
+      
+    ]
+  },
+  "activity": [
+    {
+      "title": "Leitura de Mockup",
+      "content": "Aplicação da técnica de leitura de mockup",
+      "image": "mockup",
+      "exercises": [{ "title": "Expenses" }, { "title": "Tinder" }]
+    },
+    {
+      "title": "Animações",
+      "content": "Estudos sobre animações implícitas e explícitas",
+      "image": "animation",
+      "exercises": [{ "title": "Floating Action Button" }, { "title": "Expansion Tile" }]
+    },
+    {
+      "title": "Gerência de estado",
+      "content": "Estudo sobre gerência de estado, usando ValueNotifier e BLoC",
+      "image": "state_management",
+      "exercises": [{ "title": "ToDo" }]
+    },
+    {
+      "title": "Playground",
+      "content": "Ambiente destinado a testes e estudos em geral",
+      "image": "playground",
+      "exercises": [{ "title": "Infinity Scroll" }]
+    }
+  ],
+  "task": []
+}
+
