@@ -41,6 +41,23 @@
       "exercises": [{ "title": "Infinity Scroll" }]
     }
   ],
-  "task": []
+  "task": [
+    {
+      "id": 1,
+      "name": "name",
+      "description": "description",
+      "date": 1643498657420,
+      "isCompleted": false,
+      "completedAt": null
+    },
+    {
+      "id": 1,
+      "name": "name",
+      "description": "description",
+      "date": 1643498667491,
+      "isCompleted": false,
+      "completedAt": null
+    }
+  ]
 }
 
