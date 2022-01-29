@@ -13,9 +13,7 @@
       { "name": "SQL", "proficiency": 0.73 },
       { "name": "NoSQL", "proficiency": 0.65 }
     ],
-    "networks: [
-      
-    ]
+    "networks": []
   },
   "activity": [
     {
